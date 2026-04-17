@@ -6,7 +6,8 @@ An end-to-end agentic AI system that analyses YouTube trending video data to gen
 
 ## System Architecture
 
-![Architecture Diagram](assets/architecture_diagram.png)
+<img width="940" height="189" alt="architecture" src="https://github.com/user-attachments/assets/7ce1810c-fc8d-4b00-9494-cb55d237231f" />
+
 
 ---
 
